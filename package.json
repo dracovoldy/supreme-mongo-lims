@@ -1,0 +1,20 @@
+{
+  "name": "mfeathersapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "AskMallik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "feathers": "^2.0",
+    "feathers-mongodb": "^4.0.1",
+    "feathers-rest": "^1.8.1",
+    "feathers-socketio": "^2.0.1",
+    "mongodb": "^3.1.10",
+    "nodemon": "^1.18.9"
+  }
+}
